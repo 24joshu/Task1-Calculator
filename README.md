@@ -23,3 +23,5 @@ Can be easily extended to include more scientific operations like logarithms, tr
 🎯 Objective
 
 The objective of this project is to create a calculator that not only handles simple arithmetic but also provides advanced mathematical capabilities in a clean, easy-to-use web environment, combining Python logic with modern web technologies.
+<img width="1250" height="572" alt="image" src="https://github.com/user-attachments/assets/f66b3944-0e82-4dca-8fff-3a165460bf03" />
+
